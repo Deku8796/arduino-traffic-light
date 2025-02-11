@@ -50,5 +50,5 @@ void pedestrianCrossing() {
   digitalWrite(pin1, LOW);
   digitalWrite(pin2, LOW);
   digitalWrite(pin3, HIGH);
-  delay(1000);
+  delay(2000);
 }
